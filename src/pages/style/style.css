@@ -10,6 +10,11 @@
     border-style: solid;
   }
 
+  h5   {
+    color:rgb(16, 13, 202);
+  }
+
+
   body {
     background: radial-gradient(at top left, rgb(99, 98, 99) 0%, rgb(243, 243, 243) 100%);
     background-repeat: no-repeat;

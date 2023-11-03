@@ -6,7 +6,7 @@ export default function wakanda() {
     <div>
       <h1>WAKANDA</h1>
 
-      <p>El pais de Black Panther</p>
+      <h5>El pais de Black Panther</h5>
     <Link to="/">Ir a inicio</Link>
     </div>
   )

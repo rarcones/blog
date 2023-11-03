@@ -5,8 +5,7 @@ export default function gotham() {
   return (
     <div>
       <h1>GOTHAM</h1>
-
-      <p>La ciudad de Batman</p>
+      <h5>La ciudad de Batman</h5>
     <Link to="/">Ir a inicio</Link>
     </div>
   )
