@@ -21,7 +21,6 @@ export default function gotham() {
             </ul>
         </p>
         </section>
-        
     <Link to="/">Ir a inicio</Link>    
     </body>
   )
