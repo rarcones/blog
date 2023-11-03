@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <body>
       <h1>Blog personal de viajes</h1>
+      <img src="plane.webp"  alt="Avion volando"/>
       <section>
         <div>
           <h2>Presentacion:</h2>
