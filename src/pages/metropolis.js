@@ -5,11 +5,9 @@ export default function metropolis() {
   return (
     <body>
         <div>
-        <h1>METROPOLIS</h1>
-        
-        <h5>La ciudad de Superman</h5>
-        <div>
-        <img src="wakanda.jpg"  alt="Una foto de la ciudad de Metropolis"/>
+            <h1>METROPOLIS</h1>
+            <h5>La ciudad de Superman</h5>
+            <img src="/metropolis.webp"  alt="Una foto de la ciudad de Metropolis"/>
         </div>
         <section>
         <p>La ciudad de Metrópolis es una de las más famosas y avanzadas del mundo, gracias a la presencia y protección de Superman, el héroe más poderoso de la Tierra. Metrópolis tiene una larga historia que se remonta al siglo XVI, cuando fue descubierta por un navegante italiano. Desde entonces, ha sido un centro de comercio, cultura, ciencia y progreso, así como el escenario de muchas aventuras y desafíos para Superman y sus aliados.</p>
@@ -22,7 +20,6 @@ export default function metropolis() {
             </ul>
         </p>
         </section>
-        </div>
     <Link to="/">Ir a inicio</Link>
     </body>
   )
