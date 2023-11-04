@@ -6,7 +6,7 @@ export default function metropolis() {
     <body>
         <div>
             <h1>METROPOLIS</h1>
-            <h5>La ciudad de Superman</h5>
+            <h3>La ciudad de Superman</h3>
             <img src="/metropolis.webp"  alt="Una foto de la ciudad de Metropolis"/>
         </div>
         <section>

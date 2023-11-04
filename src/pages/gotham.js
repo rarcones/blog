@@ -6,11 +6,11 @@ export default function gotham() {
     <body>
         <div>
             <h1>GOTHAM</h1>
-            <h5>La ciudad de Batman</h5>
+            <h3>La ciudad de Batman</h3>
             <img src="/gotham.webp"  alt="Una foto de la ciudad de Metropolis"/>
         </div>
         <section>
-        <p>Gotham City es la ciudad donde vive y actúa el superhéroe Batman. Se encuentra en el estado de Nueva Jersey, en los Estados Unidos, y tiene una población de más de 8 millones de habitantes1. </p>
+        <p>Gotham City es la ciudad donde vive y actúa el superhéroe Batman. Se encuentra en el estado de Nueva Jersey, en los Estados Unidos, y tiene una población de más de 8 millones de habitantes. </p>
         <p>Es una ciudad con una larga historia, fundada hace unos 200 años por varias familias poderosas, entre ellas los Wayne, los Kane, los Elliot y los Dumas. Sin embargo, también es una ciudad plagada de crimen, corrupción y locura, que ha sufrido varios desastres y amenazas a lo largo de los años. </p>
         <p>Algunos de los lugares que se pueden visitar en Gotham son:
             <ul>

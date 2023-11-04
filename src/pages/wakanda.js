@@ -6,7 +6,7 @@ export default function wakanda() {
     <body>
         <div>
             <h1>WAKANDA</h1>
-            <h5>El pais de Black Panther</h5>
+            <h3>El pais de Black Panther</h3>
             <img src="/wakanda.jpg"  alt="Una foto de la ciudad de Metropolis" width="1024" height="800" />
         </div>
         <section>
