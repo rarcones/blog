@@ -15,8 +15,8 @@ export default function metropolis() {
             <ul>
 	            <li class="list-item"> El Daily Planet, el periódico más prestigioso de la ciudad, donde trabajan Clark Kent (la identidad secreta de Superman), Lois Lane, Jimmy Olsen y Perry White. El edificio del Daily Planet tiene una gran esfera en la azotea con el nombre del diario. </li>
 	            <li class="list-item"> Museo de Superman, un lugar dedicado a honrar la vida y las hazañas del héroe, con exhibiciones que muestran sus orígenes, sus enemigos, sus aliados y sus objetos más significativos, como su traje, su capa y su Fortaleza de la Soledad. </li>
-                <li class="list-item"> Edificio LexCorp, el conglomerado empresarial más grande e influyente de Metrópolis, dirigido por Lex Luthor, el mayor enemigo de Superman. LexCorp tiene varias divisiones que abarcan desde la tecnología hasta la biología, y es responsable de muchos de los avances y problemas que afectan a la ciudad.</li>
-                <li class="list-item"> El Parque Centenario, el mayor espacio verde de Metrópolis, donde se encuentra el monumento a los héroes caídos en la Crisis en Tierras Infinitas, una batalla cósmica que amenazó la existencia de todo el multiverso.</li>
+              <li class="list-item"> Edificio LexCorp, el conglomerado empresarial más grande e influyente de Metrópolis, dirigido por Lex Luthor, el mayor enemigo de Superman. LexCorp tiene varias divisiones que abarcan desde la tecnología hasta la biología, y es responsable de muchos de los avances y problemas que afectan a la ciudad.</li>
+              <li class="list-item"> El Parque Centenario, el mayor espacio verde de Metrópolis, donde se encuentra el monumento a los héroes caídos en la Crisis en Tierras Infinitas, una batalla cósmica que amenazó la existencia de todo el multiverso.</li>
             </ul>
         </p>
         </section>

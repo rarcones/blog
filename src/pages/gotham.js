@@ -16,8 +16,8 @@ export default function gotham() {
             <ul>
 	            <li class="list-item"> La Batseñal, el símbolo de la alianza entre el comisario Gordon y Batman, que se proyecta en el cielo nocturno cuando la ciudad necesita la ayuda del Caballero Oscuro. Se encuentra en la azotea del Departamento de Policía de Gotham. </li>
 	            <li class="list-item"> La Mansión Wayne, la residencia de la familia Wayne, una de las más ricas y poderosas de Gotham. La mansión alberga un gran número de obras de arte, antigüedades y secretos, entre ellos la entrada a la Batcueva, el centro de operaciones de Batman. </li>
-                <li class="list-item"> El Asilo Arkham, es el hospital psiquiátrico donde se encierra a los criminales más peligrosos y perturbados de Gotham, como el Joker, el Pingüino, Dos Caras o el Espantapájaros. El asilo tiene fama de ser un lugar de horror y locura, donde los internos sufren abusos y experimentos.</li>
-                <li class="list-item"> El Teatro Monarch, el teatro más famoso y prestigioso de Gotham, donde se representan obras de teatro, óperas y musicales. Fue el lugar donde los padres de Bruce Wayne fueron asesinados cuando salían de ver la película El Zorro, lo que marcó el destino de Bruce como Batman.</li>
+              <li class="list-item"> El Asilo Arkham, es el hospital psiquiátrico donde se encierra a los criminales más peligrosos y perturbados de Gotham, como el Joker, el Pingüino, Dos Caras o el Espantapájaros. El asilo tiene fama de ser un lugar de horror y locura, donde los internos sufren abusos y experimentos.</li>
+              <li class="list-item"> El Teatro Monarch, el teatro más famoso y prestigioso de Gotham, donde se representan obras de teatro, óperas y musicales. Fue el lugar donde los padres de Bruce Wayne fueron asesinados cuando salían de ver la película El Zorro, lo que marcó el destino de Bruce como Batman.</li>
             </ul>
         </p>
         </section>
